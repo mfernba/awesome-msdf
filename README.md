@@ -64,7 +64,7 @@ Below are links to all the sources that helped me learn about MSDF and create th
 - [Glyphs, shapes, fonts, signed distance fields - YouTube](https://www.youtube.com/watch?v=1b5hIMqz_wM) - A short video explaining how to generate and use SDFs to render text or other 2D shapes.
 - [Drawing Text with Signed Distance Fields in Mapbox GL](https://blog.mapbox.com/drawing-text-with-signed-distance-fields-in-mapbox-gl-b0933af6f817) - A short article covering how SDFs work and the basic usage of SDFs for text rendering.
 
-- [Always-Sharp SDF Textures](https://julhe.github.io/posts/always_sharp_sdf_textures/) - An analysis of SDF technique applied to the rendering of geometric objects.
+- [Always-Sharp SDF Textures](https://julhe.github.io/posts/always_sharp_sdf_textures/) - Render infinitely sharp and anti-aliased SDF by using adaptive sharpening. The sharpening value is calculated from the area that is formed by the Jacobian Matrix of the UV coordinate.
 
 #### Antialiasing SDF text
 
